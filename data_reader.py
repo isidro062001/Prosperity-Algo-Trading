@@ -25,3 +25,6 @@ print(avg_t_trade_price)
 print(avg_e_trade_price)
 print(std_t_trade_price)
 print(std_e_trade_price)
+print(len(df_e_trades))
+print(len(df_t_trades))
+
